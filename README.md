@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salah</h1>  
-- 🌱 I’m currently learning **TypeScript Next js**
+- 🌱 I’m currently learning **TypeScript Next js** 
 
  
 </p> 
