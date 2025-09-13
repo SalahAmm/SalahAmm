@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Salah</h1>
+ <h1 align="center">Hi  👋, I'm Salah</h1>
 - 🌱 I’m currently learning **TypeScript FullStack**
 
 <h3 align="left">Connect with me:</h3>
